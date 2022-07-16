@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "432871580758",
+    "project_id": "k2kproject-e25b4",
+    "storage_bucket": "k2kproject-e25b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:432871580758:android:076bc9bdaf4748277b47f7",
+        "android_client_info": {
+          "package_name": "com.skyiot.k2kapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "432871580758-mp3g20cc964m6t1nrf85hk5g86b0nnd1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeP98imr1iwumGFuMvSquh_gtIFUxDOJ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "432871580758-mp3g20cc964m6t1nrf85hk5g86b0nnd1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
