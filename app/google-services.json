@@ -33,6 +33,35 @@
           ]
         }
       }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:432871580758:android:915e7ecf0629750b7b47f7",
+        "android_client_info": {
+          "package_name": "com.skyiot.tesapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "432871580758-mp3g20cc964m6t1nrf85hk5g86b0nnd1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeP98imr1iwumGFuMvSquh_gtIFUxDOJ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "432871580758-mp3g20cc964m6t1nrf85hk5g86b0nnd1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
     }
   ],
   "configuration_version": "1"
